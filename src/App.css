@@ -1,0 +1,17 @@
+.App {
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.cookie1 {
+    background-image: url('/public/images/cookie1.png') ;
+}
+.cookie2{
+    background-image: url('/public/images/cookie2.png');
+}
+.cookie3{
+    background-image: url('/public/images/cookie3.png');
+}
+.cookie4{
+    background-image: url('/public/images/cookie4.png');
+}
